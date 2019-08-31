@@ -2,7 +2,7 @@
 // WARNING: This class is AUTO-GENERATED. Modify at your own risk.
 // adding extra line for git changes
 import org.apache.hadoop.io.BytesWritable;
-import org.apache.hadoop.io.Text;
+//import org.apache.hadoop.io.Text;
 import org.apache.hadoop.io.Writable;
 import org.apache.hadoop.mapred.lib.db.DBWritable;
 import com.cloudera.sqoop.lib.JdbcWritableBridge;
