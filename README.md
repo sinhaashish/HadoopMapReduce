@@ -2,5 +2,5 @@
 # HadoopMapReduce
 
 
-Hadoop map reduce related practice codes
+Hadoop map reduce related practice codes.
 
