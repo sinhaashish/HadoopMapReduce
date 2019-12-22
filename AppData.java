@@ -1,4 +1,4 @@
-// ORM class for AppData
+
 // WARNING: This class is AUTO-GENERATED. Modify at your own risk.
 // adding extra line for git changes
 import org.apache.hadoop.io.BytesWritable;
