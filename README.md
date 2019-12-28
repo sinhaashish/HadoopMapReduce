@@ -4,5 +4,4 @@
 
 Hadoop map reduce related practice codes.
 
-hadoop map reduce word count
-
+hadoop map reduce word count program
