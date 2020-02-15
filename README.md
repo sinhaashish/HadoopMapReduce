@@ -1,5 +1,5 @@
 
-# HadoopMapReducehhj
+# HadoopMapReduced
 
 
 Hadoop map reduce related practice codes.
