@@ -2,7 +2,9 @@
 # HadoopMapReduced
 
 
-Hadoop map reduce related practice codes.
+
+
+Hadoop mapreduce related practice codes.
 
 hadoop map reduce word count 
 Teat program
