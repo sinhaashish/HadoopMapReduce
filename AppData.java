@@ -2,6 +2,7 @@
 // WARNING: This class is AUTO-GENERATED. Modify at your own risk.
 
 import org.apache.hadoop.io.BytesWritable;
+Test
 //import org.apache.hadoop.io.Text;
 import org.apache.hadoop.io.Writable;
 import org.apache.hadoop.mapred.lib.db.DBWritable;
