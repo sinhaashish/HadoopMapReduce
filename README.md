@@ -1,6 +1,7 @@
 
 # HadoopMapReduced
 HIVE
+FLUME
 
 
 
