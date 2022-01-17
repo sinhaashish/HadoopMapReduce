@@ -1,5 +1,5 @@
 
-# HadoopMapReduce1
+# HadoopMapReduce
 HIVE
 FLUME
 
